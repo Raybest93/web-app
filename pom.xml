@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://34.203.200.72:8081/repository/gtb-release/</url>
+	      <url>http://34.203.200.72:8081/repository/assignment-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://34.203.200.72:8081/repository/gtb-snapshot/</url>
+	      <url>http://34.203.200.72:8081/repository/assign-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
